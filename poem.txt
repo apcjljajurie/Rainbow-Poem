@@ -2,3 +2,5 @@ Colors Of The Rainbow
 [
 red, orange, yellow, green, blue, indigo, violet
 ]
+roses are red 
+violets are blue
